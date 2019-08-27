@@ -4,4 +4,4 @@
 Hello
 
 
-Im SuperAkiSpace and i like math science and astronamy!
+Im SuperAkiSpace and i like math science and astronomy!
