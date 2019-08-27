@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+
+Hello
+
+
+Im SuperAkiSpace and i like math science and astronamy!
